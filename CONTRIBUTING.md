@@ -4,7 +4,7 @@
 
 1. Checkout [README.md](README.md) for list of resources.
 
-2. Add resources which you think should be useful for others. It can be anything like coding resources, hackathons, events, scholarships or Internship.
+2. Add resources which you think should be useful for others. It can be anything like coding resources, hackathons, events, scholarships or Internships.
 
 3. Please don't remove any resources or content from README.md
 
